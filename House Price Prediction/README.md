@@ -1,5 +1,5 @@
 # Machine-Learning-Projects-
-This Repository holds all my Machine Learning projects
+This Folder holds House Price Prediction Advance Regression Project.
 
 # Tools Overview
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day.
